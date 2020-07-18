@@ -1,0 +1,1 @@
+{"name":"tkalahn","version":"1.0.0","main":"server.js","scripts":{"dev":"next","build":"next build","start":"next start"},"author":{"name":"Alireza Souran"},"license":"MIT","dependencies":{"@material-ui/core":"^4.11.0","next":"^9.4.4","react":"^16.13.1","react-dom":"^16.13.1","react-icons":"^3.10.0","sass":"^1.26.10"},"readme":"ERROR: No README data found!","_id":"tkalahn@1.0.0"}
